@@ -3,5 +3,5 @@ wordcloud
 statsmodels
 plotly.express
 numpy
-matplotlib.pyplot
+matplotlib
 sklearn.cluster
