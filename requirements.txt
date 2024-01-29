@@ -1,0 +1,7 @@
+pandas
+wordcloud
+statsmodels.api
+plotly.express
+numpy
+matplotlib.pyplot
+sklearn.cluster
