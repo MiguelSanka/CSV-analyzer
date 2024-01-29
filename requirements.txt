@@ -1,6 +1,6 @@
 pandas
 wordcloud
-statsmodels.api
+statsmodels
 plotly.express
 numpy
 matplotlib.pyplot
